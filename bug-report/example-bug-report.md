@@ -37,7 +37,8 @@ The user is able to log in succesfuully even when entering the password with inc
 
 ## Evidaence
 **If applicable, add screenshots to help explain your problem:**
-<img width="1364" height="650" alt="image" src="https://github.com/user-attachments/assets/9ad351d0-1eb4-4122-ba6b-6a6d23c78502" />
+<img width="1365" height="652" alt="image" src="https://github.com/user-attachments/assets/b2951820-f26b-44bf-885b-b5b13685d724" />
+
 
 
 ---
