@@ -63,8 +63,8 @@ Working in QA has strengthened my understanding of software development, test pr
 
 ### Samples :microscope:
 * [Test plan]()
-* [Test cases](https://github.com/DentiYusniar/portofolio/tree/218e30def9fee26917a2e298f749d297f2ee70b8/bug-report)
-* [Bug report](https://github.com/DentiYusniar/portofolio/tree/218e30def9fee26917a2e298f749d297f2ee70b8/manual-test-script)
+* [Bug report](https://github.com/DentiYusniar/portofolio/tree/218e30def9fee26917a2e298f749d297f2ee70b8/bug-report)
+* [Test Script](https://github.com/DentiYusniar/portofolio/tree/218e30def9fee26917a2e298f749d297f2ee70b8/manual-test-script)
 * [Test report]()
 
 
