@@ -1,0 +1,51 @@
+# Bug Report Template
+
+## Summary
+**Brief description of the bug:**
+
+---
+
+## Steps to Reproduce
+1. **Step 1:** 
+2. **Step 2:** 
+3. **Step 3:** 
+4. ...
+
+---
+
+## Expected Behavior
+**What should happen instead:**
+
+---
+
+## Actual Behavior
+**What actually happens:**
+
+---
+
+## Screenshots
+**If applicable, add screenshots to help explain your problem:**
+
+---
+
+## Environment
+- **Operating System:** 
+- **Browser/Version:** 
+- **Version of the software:** 
+
+---
+
+## Additional Context
+**Add any other context about the problem here, such as logs, configuration files, or related issues:**
+
+---
+
+## Severity
+- **[ ] Critical** - Blocks all work, requires immediate fix
+- **[ ] Major** - Significant impact but not a showstopper
+- **[ ] Minor** - Low impact, cosmetic issues
+- **[ ] Trivial** - Very minor issue
+
+---
+
+Thank you for your attention to this issue!
