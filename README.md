@@ -64,7 +64,7 @@ Working in QA has strengthened my understanding of software development, test pr
 ### Samples :microscope:
 **1. Transaction POS & ATM**
 * [Test plan]()
-* [Test cases]()
+* [Test cases](manual-test-script)
 * [Bug report]()
 * [Test report]()
 
