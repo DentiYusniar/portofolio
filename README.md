@@ -57,7 +57,7 @@ Working in QA has strengthened my understanding of software development, test pr
 
 ### Courses :notebook:
 
-
+ 
 ### Certificates :trophy:
 
 
