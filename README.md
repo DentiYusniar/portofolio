@@ -66,8 +66,9 @@ Working in QA has strengthened my understanding of software development, test pr
 * [Bug report](https://github.com/DentiYusniar/portofolio/tree/218e30def9fee26917a2e298f749d297f2ee70b8/bug-report)
 * [Test Script](https://github.com/DentiYusniar/portofolio/tree/218e30def9fee26917a2e298f749d297f2ee70b8/manual-test-script)
 * [Test report]()
-* [Automation Test](https://github.com/dentiyusniar/demo-project)
+* [Automation Test](https://github.com/DentiYusniar/demo-project.git)
 
 
 ### Manual Guide Example  :newspaper:
-* [Jmeter]()
+* [Jmeter](https://docs.google.com/document/d/1hw8c_gUQNRTn777s9ySBSkIZiW5m2Ais/edit?usp=drive_link&ouid=103400453517228237894&rtpof=true&sd=true)
+* [Selenium Webdriver](https://docs.google.com/document/d/1zj4yBnCH_gMvBHMx-1e2UVDSh05hDyPF/edit?usp=drive_link&ouid=103400453517228237894&rtpof=true&sd=true)
